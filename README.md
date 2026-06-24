@@ -1,2 +1,2 @@
-# finflow
+# SophIA
 finanzas personal
